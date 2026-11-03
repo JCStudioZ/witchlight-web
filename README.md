@@ -3,4 +3,4 @@
 Play: https://jcstudioz.github.io/witchlight-web/
 
 A cute witch against the night, a survivors-like game made with Godot. This repo only holds the exported web build (from witchlight
-3d8f9d2); it is published by tools/deploy_web.sh in the source repo.
+e872ead); it is published by tools/deploy_web.sh in the source repo.
