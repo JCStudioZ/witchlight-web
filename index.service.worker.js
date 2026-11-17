@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794909281|4504609';
+const CACHE_VERSION = '1794943405|4818319';
 /** @type {string} */
 const CACHE_PREFIX = 'Witchlight-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
